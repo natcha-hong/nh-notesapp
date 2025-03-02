@@ -4,12 +4,12 @@ This is a simple note-taking application built with React. It allows users to re
 
 ## Setting up the Project Locally
 
-Link to project **`<repository_url>` and `<project_directory>` **
+Link to project **`<https://github.com/natcha-hong/nh-notesapp>`**
 
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/natcha-hong/nh-notesapp.git>
 
 2. **Install dependencies for frontend and backend:**
 
