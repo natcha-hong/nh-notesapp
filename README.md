@@ -43,3 +43,10 @@ which has 2 folder inside including **notes** and **users** to store data from u
 Home | http://localhost:5173/<br/>
 Register | http://localhost:5173/register<br/>
 Login | http://localhost:5173/login
+
+
+# Difficulties and Challenges
+1. mongodb is not connect locally the in .env mongodb://localhost:27017/ which the solution is MONGODB_URL=mongodb://127.0.0.1:27017/notesapp
+2. one simple misspelling can caused an error and it is very difficult to find
+3. using lowercase or uppercase wrong ex. onclick => onClick would cause an error and it is very difficult to find
+4. need to use the right function to get the right result
